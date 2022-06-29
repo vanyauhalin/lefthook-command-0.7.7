@@ -1,0 +1,8 @@
+{
+  "name": "0.7.7",
+  "private": true,
+  "devDependencies": {
+    "@arkweid/lefthook": "0.7.7",
+    "eslint": "^8.18.0"
+  }
+}
